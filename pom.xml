@@ -1,19 +1,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.product.service</groupId>
-    <artifactId>docker-product-service-with-spring-boot-and-h2-db
-</artifactId>
+    <groupId>com.levo.dockerexample</groupId>
+    <artifactId>docker-product-service-with-spring-boot-and-h2-db</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>docker-product-service-with-spring-boot-and-h2-db
-</name>
+    <name>docker-product-service-with-spring-boot-and-h2-db</name>
     <url>http://maven.apache.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <java.version>11</java.version>
+        <java.version>1.8</java.version>
         <start-class>com.product.ProductApplicetion</start-class>
     </properties>
 
@@ -82,7 +80,7 @@
     </dependencies>
 
     <build>
-    	<finalName>docker-java-app-example</finalName>
+    	<finalName>docker-product-service-with-spring-boot-and-h2-db</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
