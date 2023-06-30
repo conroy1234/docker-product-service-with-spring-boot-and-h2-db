@@ -1,9 +1,0 @@
-/Users/conroywhite/dev/docker-product-service-with-spring-boot-and-h2-db/src/main/java/com/product/dto/Order.java
-/Users/conroywhite/dev/docker-product-service-with-spring-boot-and-h2-db/src/main/java/com/product/ProductApplicetion.java
-/Users/conroywhite/dev/docker-product-service-with-spring-boot-and-h2-db/src/main/java/com/product/client/OrderController.java
-/Users/conroywhite/dev/docker-product-service-with-spring-boot-and-h2-db/src/main/java/com/product/service/OrderService.java
-/Users/conroywhite/dev/docker-product-service-with-spring-boot-and-h2-db/src/main/java/com/product/repository/ProductRepository.java
-/Users/conroywhite/dev/docker-product-service-with-spring-boot-and-h2-db/src/main/java/com/product/controller/ProductController.java
-/Users/conroywhite/dev/docker-product-service-with-spring-boot-and-h2-db/src/main/java/com/product/service/ProductService.java
-/Users/conroywhite/dev/docker-product-service-with-spring-boot-and-h2-db/src/main/java/com/product/repository/OrderRepository.java
-/Users/conroywhite/dev/docker-product-service-with-spring-boot-and-h2-db/src/main/java/com/product/dto/Product.java
