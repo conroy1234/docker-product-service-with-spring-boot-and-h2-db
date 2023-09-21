@@ -1,0 +1,12 @@
+com\mock\task\dwp\controller\TaskController.class
+com\mock\task\dwp\dto\Task.class
+com\mock\task\dwp\service\TaskService.class
+com\mock\task\dwp\client\TaskTemplateController.class
+com\mock\task\dwp\repository\TaskTemplateRepository.class
+com\mock\task\dwp\service\TaskTemplateService.class
+com\mock\task\dwp\dto\TaskTemplate$TaskTemplateBuilder.class
+com\mock\task\dwp\repository\TaskRepository.class
+com\mock\task\dwp\dto\TaskTemplate.class
+com\mock\task\dwp\dto\Task$TaskBuilder.class
+com\mock\task\dwp\ProductApplicetion.class
+com\mock\task\dwp\config\CreateTaskTemplate.class
